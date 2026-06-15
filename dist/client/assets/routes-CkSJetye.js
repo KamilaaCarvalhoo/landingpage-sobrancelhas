@@ -1,0 +1,1 @@
+import{t as e}from"./Landing-wns-Wph3.js";import{o as t}from"./index-DALfx_ej.js";var n=t(),r=()=>(0,n.jsx)(e,{});export{r as component};
