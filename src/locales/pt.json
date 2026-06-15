@@ -1,0 +1,122 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "services": "Serviços",
+    "results": "Resultados",
+    "testimonials": "Depoimentos",
+    "contact": "Contato",
+    "book": "Agendar"
+  },
+  "hero": {
+    "badge": "Bella Brow Studio",
+    "title_1": "Sobrancelhas",
+    "title_em": "perfeitas",
+    "title_2": "para valorizar sua beleza natural",
+    "subtitle": "Design personalizado para harmonizar seu rosto e destacar seu olhar — com técnica refinada, produtos premium e o cuidado que você merece.",
+    "cta_primary": "Agendar pelo WhatsApp",
+    "cta_secondary": "Ver Resultados",
+    "rating_main": "5.0 · +2.500 clientes",
+    "rating_sub": "satisfeitas com o resultado",
+    "badge_label": "Premiado",
+    "badge_value": "Top Studio 2025"
+  },
+  "trust": {
+    "clients": "Clientes atendidas",
+    "years": "Anos de experiência",
+    "certs": "Certificações",
+    "satisfaction": "Satisfação"
+  },
+  "about": {
+    "kicker": "Sobre a Especialista",
+    "title_1": "Cada olhar é uma",
+    "title_em": "obra única",
+    "body": "Sou Bella Ferreira, especialista em design de sobrancelhas com mais de 8 anos transformando rostos por todo o Brasil. Formada nas mais renomadas escolas de visagismo e atualizada constantemente em técnicas internacionais, dedico cada atendimento a realçar o que há de mais belo em você.",
+    "b1": "Atendimento personalizado",
+    "b2": "Técnicas modernas",
+    "b3": "Ambiente confortável",
+    "b4": "Produtos premium",
+    "cta": "Conversar comigo",
+    "years_badge": "8+ anos\nde arte"
+  },
+  "services": {
+    "kicker": "Nossos Serviços",
+    "title_1": "Tratamentos",
+    "title_em": "sob medida",
+    "title_2": "para você",
+    "subtitle": "Uma carta completa de procedimentos premium para realçar sua beleza.",
+    "from": "A partir de",
+    "cta": "Agendar meu horário",
+    "items": {
+      "design": { "title": "Design de Sobrancelhas", "desc": "Modelagem personalizada que harmoniza com seu formato facial." },
+      "henna": { "title": "Henna", "desc": "Coloração natural que preenche falhas e realça o desenho." },
+      "lamination": { "title": "Brow Lamination", "desc": "Fios alinhados, volume e efeito penteado por semanas." },
+      "micro": { "title": "Micropigmentação", "desc": "Técnica fio a fio para sobrancelhas naturais e duradouras." },
+      "maintenance": { "title": "Manutenção", "desc": "Retoques periódicos para manter o design impecável." },
+      "consult": { "title": "Consultoria Facial", "desc": "Análise de visagismo personalizada para seu olhar." }
+    }
+  },
+  "results": {
+    "kicker": "Antes & Depois",
+    "title_1": "Resultados que",
+    "title_em": "falam por si",
+    "subtitle": "Arraste o controle para revelar a transformação. Cada cliente, uma nova história.",
+    "before": "Antes",
+    "after": "Depois",
+    "labels": {
+      "henna": "Design + Henna",
+      "lamination": "Brow Lamination",
+      "custom": "Design Personalizado"
+    }
+  },
+  "benefits": {
+    "kicker": "Por que Bella Brow",
+    "title_1": "Excelência em",
+    "title_em": "cada detalhe",
+    "items": {
+      "natural": { "title": "Resultado Natural", "desc": "Design que realça sua beleza sem exageros." },
+      "personal": { "title": "Atendimento Personalizado", "desc": "Cada cliente recebe atenção exclusiva." },
+      "cert": { "title": "Profissional Certificada", "desc": "Mais de 8 anos de experiência e cursos." },
+      "comfort": { "title": "Ambiente Confortável", "desc": "Espaço acolhedor pensado para você relaxar." },
+      "premium": { "title": "Produtos Premium", "desc": "Marcas de alta qualidade e hipoalergênicas." },
+      "satisfaction": { "title": "Alta Satisfação", "desc": "+98% das clientes voltam e indicam." }
+    }
+  },
+  "testimonials": {
+    "kicker": "Depoimentos",
+    "title_1": "O que dizem nossas",
+    "title_em": "clientes",
+    "prev": "Anterior",
+    "next": "Próximo",
+    "items": [
+      { "name": "Mariana Souza", "text": "A Bella transformou meu olhar! Resultado natural e impecável, atendimento maravilhoso do início ao fim." },
+      { "name": "Carolina Martins", "text": "Profissional excepcional. O design ficou perfeito para o meu rosto, recebi muitos elogios. Recomendo demais!" },
+      { "name": "Patricia Almeida", "text": "Ambiente lindo, técnica refinada e cuidado em cada detalhe. Virei cliente fiel, simplesmente apaixonada!" }
+    ]
+  },
+  "cta": {
+    "title_1": "Pronta para",
+    "title_em": "transformar",
+    "title_2": "seu olhar?",
+    "subtitle": "Agende agora mesmo sua avaliação e descubra o design ideal para você.",
+    "button": "Falar no WhatsApp",
+    "note": "Resposta em poucos minutos"
+  },
+  "footer": {
+    "tagline": "Design de sobrancelhas premium. Realçando a beleza natural de cada cliente com técnica, arte e cuidado.",
+    "visit": "Visite",
+    "address": "Rua das Flores, 123 — Jardins\nSão Paulo, SP",
+    "hours": "Horário",
+    "hours_value": "Seg a Sex · 9h–19h\nSáb · 9h–17h",
+    "rights": "Todos os direitos reservados.",
+    "made": "Feito com cuidado · CNPJ 00.000.000/0001-00"
+  },
+  "whatsapp": {
+    "message": "Olá, gostaria de agendar um horário no Bella Brow Studio.",
+    "float": "Agendar"
+  },
+  "meta": {
+    "title": "Bella Brow Studio — Design de Sobrancelhas Premium",
+    "description": "Estúdio especializado em design de sobrancelhas, henna, brow lamination e micropigmentação. Realce sua beleza natural com técnicas modernas e atendimento personalizado."
+  }
+}

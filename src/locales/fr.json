@@ -1,0 +1,122 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "results": "Résultats",
+    "testimonials": "Avis",
+    "contact": "Contact",
+    "book": "Réserver"
+  },
+  "hero": {
+    "badge": "Bella Brow Studio",
+    "title_1": "Des sourcils",
+    "title_em": "parfaits",
+    "title_2": "pour sublimer votre beauté naturelle",
+    "subtitle": "Un design personnalisé pour harmoniser votre visage et mettre votre regard en valeur — avec une technique raffinée, des produits premium et le soin que vous méritez.",
+    "cta_primary": "Réserver sur WhatsApp",
+    "cta_secondary": "Voir les Résultats",
+    "rating_main": "5,0 · +2 500 clientes",
+    "rating_sub": "satisfaites du résultat",
+    "badge_label": "Primé",
+    "badge_value": "Top Studio 2025"
+  },
+  "trust": {
+    "clients": "Clientes servies",
+    "years": "Ans d'expérience",
+    "certs": "Certifications",
+    "satisfaction": "Satisfaction"
+  },
+  "about": {
+    "kicker": "À propos de l'experte",
+    "title_1": "Chaque regard est une",
+    "title_em": "œuvre unique",
+    "body": "Je suis Bella Ferreira, spécialiste en design de sourcils avec plus de 8 ans d'expérience. Formée dans les meilleures écoles de visagisme et constamment à jour sur les techniques internationales, je consacre chaque rendez-vous à révéler ce qu'il y a de plus beau en vous.",
+    "b1": "Service personnalisé",
+    "b2": "Techniques modernes",
+    "b3": "Environnement confortable",
+    "b4": "Produits premium",
+    "cta": "Discuter avec moi",
+    "years_badge": "8+ ans\nd'art"
+  },
+  "services": {
+    "kicker": "Nos Services",
+    "title_1": "Des soins",
+    "title_em": "sur mesure",
+    "title_2": "pour vous",
+    "subtitle": "Une carte complète de prestations premium pour révéler votre beauté.",
+    "from": "À partir de",
+    "cta": "Réserver mon rendez-vous",
+    "items": {
+      "design": { "title": "Design de Sourcils", "desc": "Modelage personnalisé qui harmonise votre visage." },
+      "henna": { "title": "Henné", "desc": "Coloration naturelle qui comble les manques et sublime le tracé." },
+      "lamination": { "title": "Brow Lamination", "desc": "Poils alignés, volume et effet coiffé pour plusieurs semaines." },
+      "micro": { "title": "Microblading", "desc": "Technique poil à poil pour des sourcils naturels et durables." },
+      "maintenance": { "title": "Entretien", "desc": "Retouches régulières pour un design toujours impeccable." },
+      "consult": { "title": "Consultation Visage", "desc": "Analyse visagiste personnalisée pour votre regard." }
+    }
+  },
+  "results": {
+    "kicker": "Avant & Après",
+    "title_1": "Des résultats qui",
+    "title_em": "parlent d'eux-mêmes",
+    "subtitle": "Glissez le curseur pour révéler la transformation. Chaque cliente, une nouvelle histoire.",
+    "before": "Avant",
+    "after": "Après",
+    "labels": {
+      "henna": "Design + Henné",
+      "lamination": "Brow Lamination",
+      "custom": "Design Personnalisé"
+    }
+  },
+  "benefits": {
+    "kicker": "Pourquoi Bella Brow",
+    "title_1": "L'excellence dans",
+    "title_em": "chaque détail",
+    "items": {
+      "natural": { "title": "Résultat Naturel", "desc": "Un design qui sublime sans en faire trop." },
+      "personal": { "title": "Service Personnalisé", "desc": "Chaque cliente reçoit une attention unique." },
+      "cert": { "title": "Professionnelle Certifiée", "desc": "Plus de 8 ans d'expérience et de formations." },
+      "comfort": { "title": "Cadre Confortable", "desc": "Un espace pensé pour votre détente." },
+      "premium": { "title": "Produits Premium", "desc": "Des marques haut de gamme et hypoallergéniques." },
+      "satisfaction": { "title": "Haute Satisfaction", "desc": "+98% des clientes reviennent et recommandent." }
+    }
+  },
+  "testimonials": {
+    "kicker": "Avis",
+    "title_1": "Ce que disent nos",
+    "title_em": "clientes",
+    "prev": "Précédent",
+    "next": "Suivant",
+    "items": [
+      { "name": "Mariana Souza", "text": "Bella a transformé mon regard ! Résultat naturel et impeccable, un service merveilleux du début à la fin." },
+      { "name": "Carolina Martins", "text": "Professionnelle exceptionnelle. Le design est parfait pour mon visage, j'ai reçu tellement de compliments !" },
+      { "name": "Patricia Almeida", "text": "Bel espace, technique raffinée et soin du détail. Je suis devenue cliente fidèle, tout simplement conquise !" }
+    ]
+  },
+  "cta": {
+    "title_1": "Prête à",
+    "title_em": "transformer",
+    "title_2": "votre regard ?",
+    "subtitle": "Réservez votre consultation dès maintenant et découvrez le design idéal pour vous.",
+    "button": "Parler sur WhatsApp",
+    "note": "Réponse en quelques minutes"
+  },
+  "footer": {
+    "tagline": "Design de sourcils premium. Révéler la beauté naturelle de chaque cliente avec technique, art et soin.",
+    "visit": "Visitez",
+    "address": "Rue des Fleurs, 123 — Jardins\nSão Paulo, Brésil",
+    "hours": "Horaires",
+    "hours_value": "Lun. au Ven. · 9h–19h\nSam. · 9h–17h",
+    "rights": "Tous droits réservés.",
+    "made": "Conçu avec soin · CNPJ 00.000.000/0001-00"
+  },
+  "whatsapp": {
+    "message": "Bonjour, je souhaite prendre rendez-vous au Bella Brow Studio.",
+    "float": "Réserver"
+  },
+  "meta": {
+    "title": "Bella Brow Studio — Design de Sourcils Premium",
+    "description": "Studio spécialisé en design de sourcils, henné, brow lamination et microblading. Sublimez votre beauté naturelle avec des techniques modernes et un service personnalisé."
+  }
+}
